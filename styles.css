@@ -19,6 +19,7 @@ body::after{
   position: absolute;
   bottom: 0;
 }
+
 .container{
   max-width: 400px;
   transform: translateY(200px);
