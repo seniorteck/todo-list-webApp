@@ -1,5 +1,8 @@
 body{
-  background: #352f5b;
+  background: #352f5b url(./133955690_1771388646375259_2854199562319255940_n.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  
 }
 .container{
   max-width: 400px;
@@ -16,4 +19,8 @@ input[type=text]:focus{
 }
 .delete{
   cursor: pointer;
+}
+
+.filtered{
+  display: none!important;
 }
